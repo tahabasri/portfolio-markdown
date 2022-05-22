@@ -1,13 +1,18 @@
-# portfolio
+# portfolio files
 
-This my portfolio in markdown format.
+This branch is the result of the output : https://tahabasri.github.io/portfolio
 
-Using markdown format lets me easily version, style and generate html/pdf format.
+Basics to know in order to improve or modify:
+- https://getbootstrap.com/
+- https://jekyllrb.com
+- https://pages.github.com
+- https://github.com/elipapa/markdown-cv
+- https://github.com/markdowncss/air
 
-Checkout the source files in the [gh-pages](https://github.com/tahabasri/portfolio/tree/gh-pages) branch.
+It contains :
+- layout files for main pages and resume
+- custom stylesheets to fit my desired output
+- markdown files which host content
 
-## Resume
-I opt for markdown as my resume format inspired by [markdown-cv](https://github.com/elipapa/markdown-cv). I use tweaked versions of stylesheets from the source repo.
-
-## Main theme
-The main page uses [Air](https://github.com/markdowncss/air) for its design.
+Notes related to print settings:
+- Custom margins I use for optimal space usage : up [0.18°], right [0.21°], down [0.18°], left [0.21°]
